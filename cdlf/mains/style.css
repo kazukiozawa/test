@@ -425,7 +425,7 @@ header .a-content .head-right .reserve-btn .head-reserve {
   display: flex;
   max-width: 1000px;
   margin: 0 auto;
-  align-items: flex-start;
+  
 }
 
 .access-wrapper .container .aboutaccess {
@@ -452,6 +452,7 @@ header .a-content .head-right .reserve-btn .head-reserve {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  align-items: flex-start;
 }
 
 .access-wrapper .container .aboutaccess .photos img {
