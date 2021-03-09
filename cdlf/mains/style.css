@@ -416,7 +416,7 @@ header .a-content .head-right .reserve-btn .head-reserve {
   background-color: #f7f7f7;
   width: 100%;
   border-bottom: black;
-  height: 502px;
+  
 }
 
 .access-wrapper .container {
@@ -425,6 +425,7 @@ header .a-content .head-right .reserve-btn .head-reserve {
   display: flex;
   max-width: 1000px;
   margin: 0 auto;
+  align-items: flex-start;
 }
 
 .access-wrapper .container .aboutaccess {
