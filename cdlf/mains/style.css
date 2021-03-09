@@ -452,11 +452,11 @@ header .a-content .head-right .reserve-btn .head-reserve {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  align-items: flex-start;
+  
 }
 
 .access-wrapper .container .aboutaccess .photos img {
-  width: 100%;
+  width: 120px;
 }
 
 .access-wrapper .container .aboutaccess .photos img:nth-child(1) {
