@@ -457,6 +457,7 @@ header .a-content .head-right .reserve-btn .head-reserve {
 
 .access-wrapper .container .aboutaccess .photos img {
   width: 120px;
+  height: 120px;
 }
 
 .access-wrapper .container .aboutaccess .photos img:nth-child(1) {
